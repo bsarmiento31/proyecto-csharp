@@ -133,7 +133,7 @@ void ejercicio(){
         }
 
 }
-//LoadJson();
+LoadJson();
 void LoadJson(){
 
 using (StreamReader r = new StreamReader("customers.json"))
